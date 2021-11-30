@@ -1,5 +1,7 @@
  Employee Importance
+ 
  You have a data structure of employee information, including the employee's unique ID, importance value, and direct subordinates' IDs.
+ 
 program:
 
 class Solution
